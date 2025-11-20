@@ -21,6 +21,7 @@ This project is ideal for:
 ✔ Research in anomaly/novelty detection
 
 🚀 Features
+
 🔍 1. Novel Object Detection
 
 Automatically identifies new visual elements that were not previously in the frame.
@@ -62,6 +63,7 @@ SQLite (for novelty DB)
 Faiss / Cosine similarity for embeddings (if enabled)
 
 ⚙️ Installation
+
 1. Clone the repository
    
    <img width="810" height="160" alt="image" src="https://github.com/user-attachments/assets/de586e6c-8fe9-4469-90ae-f696c2977c18" />
@@ -69,11 +71,14 @@ Faiss / Cosine similarity for embeddings (if enabled)
 3. Create virtual environment (recommended)
    
    <img width="720" height="126" alt="image" src="https://github.com/user-attachments/assets/1f016057-01f3-40df-8934-c5256d5e8c44" />
+
    Activate:
+
       Windows:
    
        <img width="698" height="126" alt="image" src="https://github.com/user-attachments/assets/276f9388-2cea-40b8-9ab1-f5cd0e624997" />
-      Linux/Mac:
+
+   Linux/Mac:
    
        <img width="696" height="125" alt="image" src="https://github.com/user-attachments/assets/15e30a54-1a76-42ae-930d-83f3194c9348" />
 
@@ -82,6 +87,7 @@ Faiss / Cosine similarity for embeddings (if enabled)
    <img width="731" height="123" alt="image" src="https://github.com/user-attachments/assets/5a13c59c-84a2-48db-a846-067fae76492a" />
 
 ▶️ How to Run
+
 Simply run:
 
    <img width="704" height="127" alt="image" src="https://github.com/user-attachments/assets/9f37128b-4a3c-4be9-94d9-84ef129e0a35" />
@@ -122,6 +128,7 @@ Each log contains:
 <img width="768" height="295" alt="image" src="https://github.com/user-attachments/assets/e6bdf48d-d8ec-4fcf-9c9f-2a39063eb2a9" />
 
 📌 Use Cases
+
 🔐 Security Surveillance
 
 Detect new people entering restricted areas.
@@ -145,8 +152,10 @@ Add your sample output images here:
 <img width="570" height="157" alt="image" src="https://github.com/user-attachments/assets/bf003bf0-43f1-4e28-aa5e-e7cdd429c0cf" />
 
 👨‍💻 Author
+
 Amrit Kumar Das (AK)
 
 ⭐ Show Some Love
+
 If you like this project, give it a ⭐ on GitHub!
 
