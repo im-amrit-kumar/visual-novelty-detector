@@ -76,11 +76,12 @@ Faiss / Cosine similarity for embeddings (if enabled)
 
       Windows:
    
-       <img width="698" height="126" alt="image" src="https://github.com/user-attachments/assets/276f9388-2cea-40b8-9ab1-f5cd0e624997" />
+   <img width="689" height="126" alt="image" src="https://github.com/user-attachments/assets/b0dc44bc-5c47-43f9-a222-9745047d585a" />
+
 
    Linux/Mac:
    
-       <img width="696" height="125" alt="image" src="https://github.com/user-attachments/assets/15e30a54-1a76-42ae-930d-83f3194c9348" />
+   <img width="696" height="125" alt="image" src="https://github.com/user-attachments/assets/15e30a54-1a76-42ae-930d-83f3194c9348" />
 
 5. Install dependencies
    
